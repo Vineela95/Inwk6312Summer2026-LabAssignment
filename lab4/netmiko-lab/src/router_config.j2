@@ -1,0 +1,36 @@
+no ip domain lookup
+hostname {{ router.hostname }}
+
+line con 0
+ logging synchronous
+ exit
+
+interface Loopback0
+ ip address {{ router.loopback_ip }} {{ router.loopback_mask }}
+ no shutdown
+ exit
+
+interface GigabitEthernet1
+ no shutdown
+ exit
+
+{% for subif in router.subinterfaces %}
+interface {{ subif.interface }}
+ encapsulation dot1Q {{ subif.vlan }}
+ ip address {{ subif.ip }} {{ subif.mask }}
+ no shutdown
+ exit
+{% endfor %}
+
+router rip
+ version 2
+ network 155.1.0.0
+ network 150.1.0.0
+ no auto-summary
+ exit
+
+line vty 0 4
+ password inwk
+ login
+ transport input all
+ exit
