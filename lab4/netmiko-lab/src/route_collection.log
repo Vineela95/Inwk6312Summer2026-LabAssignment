@@ -1,0 +1,112 @@
+2026-05-19 16:00:16,024 - INFO - Connecting to R1 for route collection
+2026-05-19 16:00:16,030 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:00:18,585 - INFO - Authentication (password) failed.
+2026-05-19 16:00:18,588 - ERROR - Failed to collect routes from R1: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.101:22
+
+
+Authentication failed.
+2026-05-19 16:00:18,588 - INFO - Connecting to R2 for route collection
+2026-05-19 16:00:18,592 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:00:21,144 - INFO - Authentication (password) failed.
+2026-05-19 16:00:21,147 - ERROR - Failed to collect routes from R2: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.102:22
+
+
+Authentication failed.
+2026-05-19 16:00:21,147 - INFO - Connecting to R3 for route collection
+2026-05-19 16:00:21,152 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:00:23,688 - INFO - Authentication (password) failed.
+2026-05-19 16:00:23,694 - ERROR - Failed to collect routes from R3: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.103:22
+
+
+Authentication failed.
+2026-05-19 16:00:23,694 - INFO - Connecting to R4 for route collection
+2026-05-19 16:00:23,698 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:00:26,241 - INFO - Authentication (password) failed.
+2026-05-19 16:00:26,243 - ERROR - Failed to collect routes from R4: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.104:22
+
+
+Authentication failed.
+2026-05-19 16:00:54,221 - INFO - Connecting to R1 for route collection
+2026-05-19 16:00:54,228 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:00:56,764 - INFO - Authentication (password) failed.
+2026-05-19 16:00:56,769 - ERROR - Failed to collect routes from R1: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.101:22
+
+
+Authentication failed.
+2026-05-19 16:00:56,769 - INFO - Connecting to R2 for route collection
+2026-05-19 16:00:56,775 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:00:59,316 - INFO - Authentication (password) failed.
+2026-05-19 16:00:59,319 - ERROR - Failed to collect routes from R2: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.102:22
+
+
+Authentication failed.
+2026-05-19 16:00:59,319 - INFO - Connecting to R3 for route collection
+2026-05-19 16:00:59,324 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:01:01,661 - INFO - Authentication (password) failed.
+2026-05-19 16:01:01,663 - ERROR - Failed to collect routes from R3: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.103:22
+
+
+Authentication failed.
+2026-05-19 16:01:01,664 - INFO - Connecting to R4 for route collection
+2026-05-19 16:01:01,668 - INFO - Connected (version 2.0, client Cisco-1.25)
+2026-05-19 16:01:03,985 - INFO - Authentication (password) failed.
+2026-05-19 16:01:03,988 - ERROR - Failed to collect routes from R4: Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 192.168.1.104:22
+
+
+Authentication failed.
