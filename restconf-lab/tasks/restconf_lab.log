@@ -1,0 +1,16 @@
+2026-05-21 14:35:36,412 - INFO - Configuring R1 GigabitEthernet2 at http://192.168.1.101/restconf/api/running/interfaces/interface/GigabitEthernet2
+2026-05-21 14:35:38,808 - INFO - Success: R1 GigabitEthernet2
+2026-05-21 14:35:38,808 - INFO - Configuring R1 GigabitEthernet3 at http://192.168.1.101/restconf/api/running/interfaces/interface/GigabitEthernet3
+2026-05-21 14:35:41,475 - INFO - Success: R1 GigabitEthernet3
+2026-05-21 14:35:41,475 - INFO - Configuring R2 GigabitEthernet2 at http://192.168.1.102/restconf/api/running/interfaces/interface/GigabitEthernet2
+2026-05-21 14:35:44,013 - INFO - Success: R2 GigabitEthernet2
+2026-05-21 14:35:44,013 - INFO - Configuring R2 GigabitEthernet3 at http://192.168.1.102/restconf/api/running/interfaces/interface/GigabitEthernet3
+2026-05-21 14:35:45,897 - INFO - Success: R2 GigabitEthernet3
+2026-05-21 14:35:45,900 - INFO - Configuring R3 GigabitEthernet2 at http://192.168.1.103/restconf/api/running/interfaces/interface/GigabitEthernet2
+2026-05-21 14:35:48,954 - INFO - Success: R3 GigabitEthernet2
+2026-05-21 14:35:48,954 - INFO - Configuring R3 GigabitEthernet3 at http://192.168.1.103/restconf/api/running/interfaces/interface/GigabitEthernet3
+2026-05-21 14:35:50,911 - INFO - Success: R3 GigabitEthernet3
+2026-05-21 14:35:50,913 - INFO - Configuring R4 GigabitEthernet2 at http://192.168.1.104/restconf/api/running/interfaces/interface/GigabitEthernet2
+2026-05-21 14:35:53,724 - INFO - Success: R4 GigabitEthernet2
+2026-05-21 14:35:53,724 - INFO - Configuring R4 GigabitEthernet3 at http://192.168.1.104/restconf/api/running/interfaces/interface/GigabitEthernet3
+2026-05-21 14:35:56,304 - INFO - Success: R4 GigabitEthernet3
